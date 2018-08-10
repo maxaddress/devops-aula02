@@ -1,2 +1,2 @@
 # devops-aula02
-Maria, Joana, Paula.
+Maria, Julia, Paula, Ana.
